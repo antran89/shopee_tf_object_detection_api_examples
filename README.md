@@ -1,0 +1,2 @@
+# Tensorflow Object Detection API for Shopee fashion dataset
+We evalute Faster R-CNN in Tensorflow Object Detection API for Shopee fashion dataset. The details of the API can be found [here](https://github.com/tensorflow/models/tree/master/research/object_detection).
